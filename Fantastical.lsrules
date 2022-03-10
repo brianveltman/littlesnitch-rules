@@ -1,0 +1,146 @@
+{
+  "description" : "",
+  "name" : "Fantastical",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1613993843.822088,
+      "modificationDate" : 1613993843.822088,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/MacOS\/Fantastical",
+      "protocol" : "tcp",
+      "remote-hosts" : "in.appcenter.ms"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613993838.1186671,
+      "modificationDate" : 1613993838.1186671,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/MacOS\/Fantastical",
+      "protocol" : "tcp",
+      "remote-hosts" : "flexibits.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613993917.059386,
+      "modificationDate" : 1613993917.059386,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/MacOS\/Fantastical",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.flexibits.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1614199843.7408419,
+      "modificationDate" : 1614199843.7408419,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/MacOS\/Fantastical",
+      "protocol" : "tcp",
+      "remote-hosts" : "cdn.flexibits.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1614373624.7604251,
+      "modificationDate" : 1614373624.7604251,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/MacOS\/Fantastical",
+      "protocol" : "tcp",
+      "remote-hosts" : "login.microsoftonline.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613993988.4282079,
+      "modificationDate" : 1613993988.4282079,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/MacOS\/Fantastical",
+      "protocol" : "tcp",
+      "remote-hosts" : "outlook.office365.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613993870.0005469,
+      "modificationDate" : 1613993870.0005469,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/Library\/LoginItems\/85C27NK92C.com.flexibits.fantastical2.mac.helper.app\/Contents\/MacOS\/85C27NK92C.com.flexibits.fantastical2.mac.helper",
+      "protocol" : "tcp",
+      "remote-hosts" : "in.appcenter.ms"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613994147.8046,
+      "modificationDate" : 1613994147.8046,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/Library\/LoginItems\/85C27NK92C.com.flexibits.fantastical2.mac.helper.app\/Contents\/MacOS\/85C27NK92C.com.flexibits.fantastical2.mac.helper",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.facebook.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613993876.1652811,
+      "modificationDate" : 1613993876.1652811,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/Library\/LoginItems\/85C27NK92C.com.flexibits.fantastical2.mac.helper.app\/Contents\/MacOS\/85C27NK92C.com.flexibits.fantastical2.mac.helper",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.flexibits.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613993924.8217371,
+      "modificationDate" : 1613993924.8217371,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/Library\/LoginItems\/85C27NK92C.com.flexibits.fantastical2.mac.helper.app\/Contents\/MacOS\/85C27NK92C.com.flexibits.fantastical2.mac.helper",
+      "protocol" : "tcp",
+      "remote-hosts" : "pushmac.flexibits.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1614373671.375736,
+      "modificationDate" : 1614373671.375736,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/Library\/LoginItems\/85C27NK92C.com.flexibits.fantastical2.mac.helper.app\/Contents\/MacOS\/85C27NK92C.com.flexibits.fantastical2.mac.helper",
+      "protocol" : "tcp",
+      "remote-hosts" : "graph.microsoft.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613994016.5978088,
+      "modificationDate" : 1613994016.5978088,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/Library\/LoginItems\/85C27NK92C.com.flexibits.fantastical2.mac.helper.app\/Contents\/MacOS\/85C27NK92C.com.flexibits.fantastical2.mac.helper",
+      "protocol" : "tcp",
+      "remote-hosts" : "login.microsoftonline.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613994022.4355168,
+      "modificationDate" : 1613994022.4355168,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/Library\/LoginItems\/85C27NK92C.com.flexibits.fantastical2.mac.helper.app\/Contents\/MacOS\/85C27NK92C.com.flexibits.fantastical2.mac.helper",
+      "protocol" : "tcp",
+      "remote-hosts" : "outlook.office365.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646730413.215591,
+      "modificationDate" : 1646730413.215591,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Fantastical.app\/Contents\/Library\/LoginItems\/85C27NK92C.com.flexibits.fantastical2.mac.helper.app\/Contents\/MacOS\/85C27NK92C.com.flexibits.fantastical2.mac.helper",
+      "protocol" : "tcp",
+      "remote-hosts" : "todoist.com"
+    }
+  ]
+}
