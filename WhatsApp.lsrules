@@ -1,0 +1,174 @@
+{
+  "description" : "",
+  "name" : "WhatsApp",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1646904968.954586,
+      "modificationDate" : 1646904968.954586,
+      "owner" : "me",
+      "ports" : "3478",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "31.13.64.50"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646905019.091182,
+      "modificationDate" : 1646905019.091182,
+      "owner" : "me",
+      "ports" : "3478",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "31.13.92.50"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904975.7025399,
+      "modificationDate" : 1646904975.7025399,
+      "owner" : "me",
+      "ports" : "3478",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "157.240.20.51"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904982.0543571,
+      "modificationDate" : 1646904982.0543571,
+      "owner" : "me",
+      "ports" : "3478",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "157.240.27.52"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904972.2034931,
+      "modificationDate" : 1646904972.2034931,
+      "owner" : "me",
+      "ports" : "3478",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "157.240.201.62"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904978.9399838,
+      "modificationDate" : 1646904978.9399838,
+      "owner" : "me",
+      "ports" : "3478",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "157.240.236.62"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904985.3377151,
+      "modificationDate" : 1646904985.3377151,
+      "owner" : "me",
+      "ports" : "56993",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "163.158.196.215"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646905026.055908,
+      "modificationDate" : 1646905026.055908,
+      "owner" : "me",
+      "ports" : "58347",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "163.158.196.215"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646905021.723006,
+      "modificationDate" : 1646905021.723006,
+      "owner" : "me",
+      "ports" : "3478",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "udp",
+      "remote-addresses" : "185.60.216.51"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904950.134568,
+      "modificationDate" : 1646904950.134568,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "web.whatsapp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904609.7254879,
+      "modificationDate" : 1646904609.7254879,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "crashlogs.whatsapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904609.7254879,
+      "modificationDate" : 1646904609.7254879,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "media-ams4-1.cdn.whatsapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904609.7254879,
+      "modificationDate" : 1646904609.7254879,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "media-amt2-1.cdn.whatsapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904609.7254879,
+      "modificationDate" : 1646904609.7254879,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "pps.whatsapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904609.7254879,
+      "modificationDate" : 1646904609.7254879,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-hosts" : "static.whatsapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646904609.7254879,
+      "modificationDate" : 1646904609.7254879,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "protocol" : "tcp",
+      "remote-domains" : "web.whatsapp.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1646904609.7254879,
+      "modificationDate" : 1646904609.7254879,
+      "owner" : "any",
+      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
+      "remote" : "any"
+    }
+  ]
+}
