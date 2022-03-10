@@ -1,0 +1,56 @@
+{
+  "description" : "",
+  "name" : "Cardhop",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1646849679.368356,
+      "modificationDate" : 1646849679.368356,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Cardhop.app\/Contents\/MacOS\/Cardhop",
+      "protocol" : "tcp",
+      "remote-hosts" : "in.appcenter.ms"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646815899.813885,
+      "modificationDate" : 1646815899.813885,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Cardhop.app\/Contents\/MacOS\/Cardhop",
+      "protocol" : "tcp",
+      "remote-hosts" : "flexibits.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646849667.62043,
+      "modificationDate" : 1646849667.62043,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Cardhop.app\/Contents\/MacOS\/Cardhop",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.flexibits.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646849694.9030352,
+      "modificationDate" : 1646849694.9030352,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Cardhop.app\/Contents\/MacOS\/Cardhop",
+      "protocol" : "tcp",
+      "remote-hosts" : "login.microsoftonline.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646849664.000011,
+      "modificationDate" : 1646849664.000011,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Cardhop.app\/Contents\/MacOS\/Cardhop",
+      "protocol" : "tcp",
+      "remote-hosts" : "outlook.office365.com"
+    }
+  ]
+}
