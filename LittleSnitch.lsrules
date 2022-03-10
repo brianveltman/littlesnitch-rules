@@ -1,0 +1,36 @@
+{
+  "description" : "",
+  "name" : "Little Snitch",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1646904200.3550549,
+      "modificationDate" : 1646904200.3550549,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Objective Development\/Little Snitch\/Components\/at.obdev.littlesnitch.daemon.bundle\/Contents\/XPCServices\/at.obdev.littlesnitch.urldownloader.xpc\/Contents\/MacOS\/at.obdev.littlesnitch.urldownloader",
+      "protocol" : "tcp",
+      "remote-hosts" : "gist.githubusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1646905776.2985029,
+      "modificationDate" : 1646905776.2985029,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Objective Development\/Little Snitch\/Components\/at.obdev.littlesnitch.daemon.bundle\/Contents\/XPCServices\/at.obdev.littlesnitch.urldownloader.xpc\/Contents\/MacOS\/at.obdev.littlesnitch.urldownloader",
+      "protocol" : "tcp",
+      "remote-hosts" : "raw.githubusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613732343.8518949,
+      "modificationDate" : 1613732343.8518949,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Little Snitch.app\/Contents\/Components\/Little Snitch Software Update.app\/Contents\/MacOS\/Little Snitch Software Update",
+      "protocol" : "tcp",
+      "remote-domains" : "obdev.at"
+    }
+  ]
+}
