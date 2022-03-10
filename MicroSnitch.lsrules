@@ -1,0 +1,16 @@
+{
+  "description" : "",
+  "name" : "Micro Snitch",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1613815420.575177,
+      "modificationDate" : 1613815420.575177,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Micro Snitch.app\/Contents\/MacOS\/Micro Snitch",
+      "protocol" : "tcp",
+      "remote-domains" : "obdev.at"
+    }
+  ]
+}
