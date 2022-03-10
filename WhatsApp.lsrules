@@ -161,14 +161,6 @@
       "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
       "protocol" : "tcp",
       "remote-domains" : "web.whatsapp.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1646904609.7254879,
-      "modificationDate" : 1646904609.7254879,
-      "owner" : "any",
-      "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
-      "remote" : "any"
     }
   ]
 }
