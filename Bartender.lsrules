@@ -1,0 +1,26 @@
+{
+  "description" : "",
+  "name" : "Bartender",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1615965228.4621201,
+      "modificationDate" : 1615965228.4621201,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Bartender 4.app\/Contents\/MacOS\/Bartender 4",
+      "protocol" : "tcp",
+      "remote-hosts" : "macbartender.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1613994462.443948,
+      "modificationDate" : 1613994462.443948,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Bartender 4.app\/Contents\/MacOS\/Bartender 4",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.macbartender.com"
+    }
+  ]
+}
